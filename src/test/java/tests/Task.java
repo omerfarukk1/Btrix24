@@ -6,7 +6,10 @@ public class Task {
     
     System.out.println("Hello Java");
     // this line is added from Github, se you intelliJ
-  
+  }
+  public void hi(){
+
+    System.out.println("Hi from intelliJ");
   }
 
 
